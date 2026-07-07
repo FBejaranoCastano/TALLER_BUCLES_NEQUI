@@ -26,7 +26,7 @@ const usuarios = [
     },
     {
         nombre: "Elena Rostova",
-        movimientos: [-200, -450, 1800, 350, -100, 600], // 3 negativos (retiros)
+        movimientos: [-200, -450, 1800, 350, -100, 600],
         totalUsuario: 0
     }
 ];
