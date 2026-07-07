@@ -1,27 +1,27 @@
 const usuarios = [
     {
         nombre: "Andrés López",
-        movimientos: [500, -150, 200, -50, -300, 1000], // 3 negativos (retiros)
+        movimientos: [500, -150, 200, -50, -300, 1000],
         totalUsuario: 0
     },
     {
         nombre: "María Camila",
-        movimientos: [1200, -400, -100, 350, 600, -250], // 3 negativos (retiros)
+        movimientos: [1200, -400, -100, 350, 600, -250],
         totalUsuario: 0
     },
     {
         nombre: "Carlos Mendoza",
-        movimientos: [800, 1500, -600, -200, 400, 150], // 2 negativos (retiros)
+        movimientos: [800, 1500, -600, -200, 400, 150],
         totalUsuario: 0
     },
     {
         nombre: "Diana Soler",
-        movimientos: [-50, 3000, -1200, 450, 150, -300], // 3 negativos (retiros)
+        movimientos: [-50, 3000, -1200, 450, 150, -300],
         totalUsuario: 0
     },
     {
         nombre: "Santiago Cruz",
-        movimientos: [2500, -800, 300, -150, 900, 400], // 2 negativos (retiros)
+        movimientos: [2500, -800, 300, -150, 900, 400],
         totalUsuario: 0
     },
     {
